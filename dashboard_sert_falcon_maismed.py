@@ -8,7 +8,7 @@ import os
 st.set_page_config(page_title="KPI — Sert + Falcon + Mais Med", page_icon="🚑", layout="wide")
 
 EMPRESAS = {
-    'sert':    {'nome': 'Sert Med',  'cor': '#1c2d9d'},
+    'sert':    {'nome': 'Sert Med',  'cor': '#b8d400'},
     'maismed': {'nome': 'Mais Med',  'cor': '#fe0000'},
     'falcon':  {'nome': 'Falcon',    'cor': '#010f72'},
 }
